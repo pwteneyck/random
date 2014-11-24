@@ -1,6 +1,7 @@
 #include <iostream>
 #include <string>
 #include <locale>
+#include "stdio.h"
 
 using namespace std;
 
